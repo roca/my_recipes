@@ -1,5 +1,3 @@
-
-
 describe("Chat App", function() {
   
 });
