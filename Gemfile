@@ -48,3 +48,4 @@ gem "rails-backbone"
 gem "ejs"
 gem "jasminerice"
 gem 'haml'
+gem 'haml_assets'
